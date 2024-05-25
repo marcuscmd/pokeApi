@@ -1,0 +1,18 @@
+.button_example {
+    padding: 1rem 2rem;
+    margin: 1rem 0;
+
+    color: #fff;
+    border-radius: 0.5rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.orange {
+    background: #eb5b0e;
+}
+
+.blue {
+    background: #0f13e7;
+}
